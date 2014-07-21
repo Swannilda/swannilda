@@ -17,6 +17,7 @@ dubbele_leeftijd=leeftijd*leeftijd
 puts "met dubbele leeftijd ben je #{dubbele_leeftijd} jaar oud!"
 puts "jij bent #{leeftijd} jaar oud!"
 
+# dit is een voorbeeld van een loop
 
 1.times do 
   puts "Hallo #{naam1} en #{naam2}"
